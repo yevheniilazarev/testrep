@@ -57,7 +57,7 @@ public class XmlLogicImpl implements XmlLogic {
 							conn.getHeaderField("Date")));
 				}
 			}
-			System.out.println(i);
+
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
